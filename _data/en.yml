@@ -20,11 +20,11 @@ events: Events
 eventsSubheading: Our upcoming and recent events
 eventPlaceholder: Nothing yet! Propose an event here.
 suggestEvent: Suggest an Event
-leadership: How to lead a Study Group session
+leadership: How to lead a learning circle session
 pastEvents: See Our Past Events
 
 notification: Want to be notified of our upcoming events?
-watching: 'Head over to <a href="https://github.com/mozillascience/studyGroup">GitHub</a> and watch our repository, like this:'
+watching: 'Head over to <a href="https://github.com/h3abionet/LearningCircles">GitHub</a> and watch our repository, like this:'
 watchingCaption: 'Look in the top right-hand corner of <a href="%GITHUB_REPO_URL%">our repo</a>, and click "Watching." <br>You can undo this at any time in the same place.'
 
 calendar: Subscribe to our events calendar!
@@ -40,4 +40,4 @@ teamHeadline: Who We Are
 teamSubheading: "We're scientists, students and researchers who want to work with you!"
 interests: Interests
 
-codeOfConduct: Study Group Code of Conduct
+codeOfConduct: learning circle Code of Conduct
