@@ -1,6 +1,6 @@
 **Title:** *Lesson Title*
 
-**Author:** *Your name and Study Group name here!*
+**Author:** *Your name and learning circle name here!*
 
 **Level:** *Novice, intermediate, advanced. These categories are very general, but combined with the prerequisites below they should give a sense of the skill level involved, so users can decide if this lesson is right for them.*
 
